@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript Array</title>
+    </head>
+    <body>
+        <h1><u>JavaScript HTML Events</u></h1>
+        <h2>The onclick Arribute</h2>
+
+        <button
+        onclick="document.getElementById('demo').innerHTML=Date()">
+    TIME </button>
+        
+        <p id="demo"></p>
+
+       
+    </body>
+</html>
